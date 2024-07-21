@@ -15,7 +15,7 @@ on:
         required: true
 #2
 env:
-  REGISTRY: "library/hello-world"
+  REGISTRY: "library"
   IMAGE_NAME: "hello-world"
 
 #3
